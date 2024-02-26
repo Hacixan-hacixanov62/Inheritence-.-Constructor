@@ -1,0 +1,14 @@
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\bin\Debug\net6.0\Method constractor. Interitence.exe
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\bin\Debug\net6.0\Method constractor. Interitence.deps.json
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\bin\Debug\net6.0\Method constractor. Interitence.runtimeconfig.json
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\bin\Debug\net6.0\Method constractor. Interitence.dll
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\bin\Debug\net6.0\Method constractor. Interitence.pdb
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\obj\Debug\net6.0\Method constractor. Interitence.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\obj\Debug\net6.0\Method constractor. Interitence.AssemblyInfoInputs.cache
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\obj\Debug\net6.0\Method constractor. Interitence.AssemblyInfo.cs
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\obj\Debug\net6.0\Method constractor. Interitence.csproj.CoreCompileInputs.cache
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\obj\Debug\net6.0\Method constractor. Interitence.dll
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\obj\Debug\net6.0\refint\Method constractor. Interitence.dll
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\obj\Debug\net6.0\Method constractor. Interitence.pdb
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\obj\Debug\net6.0\Method constractor. Interitence.genruntimeconfig.cache
+C:\C#\Method constractor. Interitence\Method constractor. Interitence\obj\Debug\net6.0\ref\Method constractor. Interitence.dll

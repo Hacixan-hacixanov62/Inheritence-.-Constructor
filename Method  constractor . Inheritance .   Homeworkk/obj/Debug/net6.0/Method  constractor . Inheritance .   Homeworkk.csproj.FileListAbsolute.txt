@@ -1,0 +1,14 @@
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\bin\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.exe
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\bin\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.deps.json
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\bin\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.runtimeconfig.json
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\bin\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.dll
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\bin\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.pdb
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\obj\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\obj\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.AssemblyInfoInputs.cache
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\obj\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.AssemblyInfo.cs
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\obj\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.csproj.CoreCompileInputs.cache
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\obj\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.dll
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\obj\Debug\net6.0\refint\Method  constractor . Inheritance .   Homeworkk.dll
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\obj\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.pdb
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\obj\Debug\net6.0\Method  constractor . Inheritance .   Homeworkk.genruntimeconfig.cache
+C:\C#\Method  constractor . Inheritance .   Homeworkk\Method  constractor . Inheritance .   Homeworkk\obj\Debug\net6.0\ref\Method  constractor . Inheritance .   Homeworkk.dll

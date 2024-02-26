@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Method  constractor . Inheritance .   Homeworkk/1.0.0": {
+        "runtime": {
+          "Method  constractor . Inheritance .   Homeworkk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Method  constractor . Inheritance .   Homeworkk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
